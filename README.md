@@ -13,21 +13,19 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=Rbel12b&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117">
+      srcset="https://github-readme-stats.vercel.app/api?username=Rbel12b&theme=tokyonight&layout=compact&show_icons=true&count_private=true">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=Rbel12b&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=ffffff">
+      srcset="https://github-readme-stats.vercel.app/api?username=Rbel12b&layout=compact&show_icons=true&count_private=true">
     <img width="49%" height="auto"
-      src="https://github-readme-stats.vercel.app/api?username=Rbel12b&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117"
-      alt="Estatísticas do GitHub">
+      src="https://github-readme-stats.vercel.app/api?username=Rbel12b&theme=tokyonight&layout=compact&show_icons=true&count_private=true">
   </picture>
   
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbel12b&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook">
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbel12b&theme=tokyonight&layout=compact&langs_count=8">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbel12b&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=ffffff&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook">
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbel12b&layout=compact&langs_count=8">
     <img width="37%" height="auto"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbel12b&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook"
-      alt="Linguagens mais usadas">
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbel12b&theme=tokyonight&layout=compact&langs_count=8">
   </picture>
 </div>
