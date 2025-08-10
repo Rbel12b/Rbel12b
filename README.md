@@ -6,7 +6,9 @@
   </a>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=arch,cpp,c,py,js,html,css,react,ts,arduino,md,git,github,vscode,&perline=15)](#)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=arch,cpp,c,py,js,html,css,react,ts,arduino,md,git,github,vscode,cmake,raspberrypi&perline=8">
+</p>
 
 <div align="center">
   <picture>
