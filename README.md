@@ -13,19 +13,19 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=Rbel12b&theme=tokyonight&layout=compact&show_icons=true&count_private=true">
+      srcset="https://github-readme-stats-nine-umber-49.vercel.app/api?username=Rbel12b&theme=tokyonight&layout=compact&show_icons=true&count_private=true">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=Rbel12b&layout=compact&show_icons=true&count_private=true">
+      srcset="https://github-readme-stats-nine-umber-49.vercel.app/api?username=Rbel12b&layout=compact&show_icons=true&count_private=true">
     <img width="49%" height="auto"
-      src="https://github-readme-stats.vercel.app/api?username=Rbel12b&theme=tokyonight&layout=compact&show_icons=true&count_private=true">
+      src="https://github-readme-stats-nine-umber-49.vercel.app/api?username=Rbel12b&theme=tokyonight&layout=compact&show_icons=true&count_private=true">
   </picture>
   
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbel12b&theme=tokyonight&layout=compact&langs_count=8">
+      srcset="https://github-readme-stats-nine-umber-49.vercel.app/api/top-langs/?username=Rbel12b&theme=tokyonight&layout=compact&langs_count=8">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbel12b&layout=compact&langs_count=8">
+      srcset="https://github-readme-stats-nine-umber-49.vercel.app/api/top-langs/?username=Rbel12b&layout=compact&langs_count=8">
     <img width="37%" height="auto"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbel12b&theme=tokyonight&layout=compact&langs_count=8">
+      src="https://github-readme-stats-nine-umber-49.vercel.app/api/top-langs/?username=Rbel12b&theme=tokyonight&layout=compact&langs_count=8">
   </picture>
 </div>
